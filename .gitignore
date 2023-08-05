@@ -1,0 +1,16 @@
+*#
+*.jar
+*~
+.#*
+.idea
+.metadata
+.project
+.vscode
+bin
+build
+!/**/src/**/bin
+!/**/src/**/build
+manifest.yml
+target
+.flattened-pom.xml
+secrets.yml
